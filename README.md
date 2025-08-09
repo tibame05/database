@@ -79,3 +79,9 @@ etfs.etf_id
   ├── etf_daily_prices.etf_id     (1:N 每日價格)
   ├── etf_backtest_results.etf_id (1:N 回測結果)
   └── etf_dividend.etf_id         (1:N 配息紀錄)
+```
+
+
+## [資料表型別與說明](https://docs.google.com/spreadsheets/d/1JzkaC6awJJ5pPCw4etLZ6uS6xMlxY45yTgDjxDrvGvA/edit?gid=0#gid=0)
+
+## [資料表關聯圖(ERD)](https://dbdiagram.io/d/ETF-lab-ERD-685f81a5f413ba350847cb87)
